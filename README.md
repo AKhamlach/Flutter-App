@@ -1,6 +1,6 @@
 # first_app
 
-Example Mobile App
+Example Flutter Mobile App
 
 ## Getting Started
 
